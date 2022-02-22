@@ -1,0 +1,1 @@
+Welcome to the Travel App! You will be able to find a brief overview and important tourist information for five different countries. Select a country and the corresponding button to begin!

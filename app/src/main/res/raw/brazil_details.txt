@@ -1,0 +1,10 @@
+*Currency: reais (R$)
+*Exchange Rate: 1 Real (R$) = 0.20 US Dollars ($)
+*Hotels: Casa São Conrado ($), Hotel Gran Marquise ($$), Palácio Tangará ($$$)
+*Transportation: Buses, plane, car, train, boat, taxis, metro 
+*Food: Some popular foods include Feijoada, Farofa, Moqueca de Camarão, Brigadeiro, Açaí, and Canjica
+*Popular Places/Attractions: Copacabana, Amazon Rain Forests, Ipanema, Iguaçu Falls (pictured below)
+*Popular Festivals: Carnival (February/March), Lollapalooza (March), Festival de Cachaça (August)
+*Shopping: Shopping Morumbi (São Paulo), Visconde de Pirajá (Ipanema), Feira do Rio Antigo (Rio de Janeiro)
+*COVID-19 Restrictions: The CDC does not recommend travel due to COVID-19
+*More information: https://visitbrasil.com/en/
